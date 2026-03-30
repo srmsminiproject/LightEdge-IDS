@@ -1,0 +1,22 @@
+{
+    "global": {
+        "accuracy": 0.998,
+        "precision": 0.982,
+        "recall": 1.0,
+        "f1": 0.991,
+        "TP": 271,
+        "TN": 1803,
+        "FP": 5,
+        "FN": 0
+    },
+    "zone_avg": {
+        "accuracy": 0.994,
+        "precision": 0.978,
+        "recall": 0.978,
+        "f1": 0.978,
+        "TP": 265,
+        "TN": 1802,
+        "FP": 6,
+        "FN": 6
+    }
+}
